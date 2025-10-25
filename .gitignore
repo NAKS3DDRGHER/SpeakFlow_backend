@@ -1,0 +1,14 @@
+# Node
+**/node_modules
+**/dist
+**/.vite
+**/coverage
+
+# Cypress artifacts
+**/cypress/screenshots
+**/cypress/videos
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
